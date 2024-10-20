@@ -24,8 +24,6 @@ In this project, various spatial and Fourier filters are applied to remove noise
 - Noise attenuation using Fourier filters (e.g., Low-pass, High-pass).
 - Displaying the original noisy image, the applied filter, and the filtered image.
 
-![Fourier](Project1/output/Fourier.png)
-
 ### Files
 - `/project1/`: Folder containing the following files:
   - `noise_reduction.py`: Python script for applying noise reduction techniques.
