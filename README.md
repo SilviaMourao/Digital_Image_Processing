@@ -7,6 +7,15 @@
 ## Project Overview
 This repository contains two Python-based image processing projects that demonstrate various techniques for noise reduction, image filtering, and feature extraction using spatial and Fourier domains. The projects focus on real-world applications like removing noise from images and detecting specific features such as riverbeds, roads, and roofs in satellite images.
 
+### Table of Contents
+- [Skills and Tools Used](#skills-and-tools-used)
+- [Project 1: Noise Attenuation/Elimination](#project-1-noise-attenuationelimination)
+- [Project 2: Image Segmentation and Feature Extraction](#project-2-image-segmentation-and-feature-extraction)
+- [Dependencies](#dependencies)
+- [Key Results](#key-results)
+
+---
+
 ## Skills and Tools Used
 - **Software**: Python, NumPy, SciPy, Matplotlib, scikit-image (`skimage`)
 - **Techniques**: Spatial filtering, Fourier filtering, histogram thresholding, watershed transformation, morphological operations
