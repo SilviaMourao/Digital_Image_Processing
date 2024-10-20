@@ -2,7 +2,7 @@
 **Institution**: Faculdade de Ciências da Universidade de Lisboa  
 **Course**: Digital Image Processing  
 **Project Date**: 2021  
-**Project Language**: Portuguese
+**Project Language**: Portuguese/English
 
 ## Project Overview
 This repository contains two Python-based image processing projects that demonstrate various techniques for noise reduction, image filtering, and feature extraction using spatial and Fourier domains. The projects focus on real-world applications like removing noise from images and detecting specific features such as riverbeds, roads, and roofs in satellite images.
