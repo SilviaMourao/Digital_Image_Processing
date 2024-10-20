@@ -24,11 +24,13 @@ In this project, various spatial and Fourier filters are applied to remove noise
 - Noise attenuation using Fourier filters (e.g., Low-pass, High-pass).
 - Displaying the original noisy image, the applied filter, and the filtered image.
 
+![Fourier](Project1/output/Fourier.png)
+
 ### Files
 - `/project1/`: Folder containing the following files:
   - `noise_reduction.py`: Python script for applying noise reduction techniques.
   - `noisyland.tif`: Input noisy image.
-  - `filtered_output.png`: Output image after applying filters.
+  - `/output/`: Output images after applying filters.
 
 ---
 
@@ -42,12 +44,14 @@ This project focuses on image segmentation and feature extraction from satellite
 - Watershed transformation for riverbed central line detection.
 - Histogram thresholding for segmentation and extraction of roads and roofs.
 
+![Roads](Project2/output/Roads.png)
+
 ### Files
 - `/project2/`: Folder containing the following files:
   - `segmentation.py`: Python script for image segmentation tasks.
   - `lsat01.tif`: Satellite image for riverbed extraction.
   - `ik02.tif`: RGB satellite image for road and roof detection.
-  - `/output_images/`: Contains images showing extracted features.
+  - `/output/`: Contains images showing extracted features.
 
 ---
 
